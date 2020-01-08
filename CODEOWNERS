@@ -1,2 +1,5 @@
-@andrew5335
-app/ @andrew5335
+# global owner
+*        @andrew5335
+
+# app directory owner
+app/     @andrew5335
